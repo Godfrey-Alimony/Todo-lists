@@ -15,8 +15,9 @@ module.exports = {
         }),
     ],
     output: {
-        filename: 'bundle.js',
-        path: path.resolve(__dirname, 'dist'),
+          filename: 'bundle.js',
+          publicPath: "/webpack-demo/",
+          path: path.resolve(index.html, 'dist'),
         clean: true,
     },
     optimization: {
