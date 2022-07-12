@@ -2,6 +2,7 @@ const path = require('path');
 const HtmlWebpackPlugin = require('html-webpack-plugin');
 
 module.exports = {
+ To-Do-list-interactive-list
     mode: 'development',
     entry: './src/index.js',
     devtool: 'inline-source-map',
@@ -36,4 +37,5 @@ module.exports = {
             },
         ],
     },
+ To-Do-list-interactive-list
 };
