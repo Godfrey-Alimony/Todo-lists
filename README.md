@@ -1,5 +1,8 @@
 # Microverse Webpack Javascript
 
+A webpack app that load index.html from dist folder, Built with JavaScript,html.css.'
+
+
 > For the second Javascript milestone in building a todo website,
 
 > set up a new repository and prepare it for development using best practices (e.g. linters).
